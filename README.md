@@ -5,4 +5,4 @@ This scripts are made for Logitech G HUB. Probably it will work on all mouses bu
 
 ## ⚠️ Important
 
-The use of scripts is illegal for most games. Use on your own.
+The use of scripts is illegal for most games. Use at your own risk.
